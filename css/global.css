@@ -7,6 +7,10 @@ box-sizing: border-box;
 font-family: 'Karla', sans-serif;
 }
 
+body{
+    background-color: var(--light-gray);
+}
+
 main{
     padding-block: 4.5rem;
     padding-inline: 2rem;
@@ -26,6 +30,3 @@ h2{
     margin-bottom: 1.125rem;
 }
 
-body{
-background-color: var(--light-gray);
-}
